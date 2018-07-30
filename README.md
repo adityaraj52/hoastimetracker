@@ -2,11 +2,10 @@
 
 * Install maven
 * Run mvn package
-* Copy the jar file located in target to the hoastimetracker directory
-* Run the jar
+* Run the jar located in root directory
 * Start the timer
 * Stop the timer
-* update to tracker file
+* click update the pwa tracker
 
 ** In resources PWATimetracker you can see  the time tracker updated.
 
