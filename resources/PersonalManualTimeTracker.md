@@ -6,4 +6,4 @@ Date          | User Story    | Start Time    | End Time      | Comments        
 09.08.2018    | 964           | 09:30         | 17:45         | User Story 400 Bug(3h, 1h Junit run fixing), 928(2h), Scrum 9 event 2h |
 10.08.2018    | 400(Bug), KT(Junit) | 10:00   | 16:00         | 5h, 1h          |
 13.08.2018    | 926           | 09:30         | 18:45         | Fixed Martin reviews, User Story 926 |
-
+14.08.2018    | 926           | 08:30         | 18:30         | Found a solution to link print functionality with print button |
