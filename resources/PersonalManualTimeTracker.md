@@ -8,3 +8,4 @@ Date          | User Story    | Start Time    | End Time      | Comments        
 13.08.2018    | 926           | 09:30         | 18:45         | Fixed Martin reviews, User Story 926 |
 14.08.2018    | 926           | 08:30         | 18:30         | Found a solution to link print functionality with print button | 
 15.08.2018    | 926           | 08:30         | 15:30         | Implementing print functionality linkage solutin |
+16.08.2018    | 926           | 8:30          | 16:00         | Implemented print functionality and started implementing DS |
