@@ -1,7 +1,7 @@
 | Number | Address                              | Link                                                         | Appointment                           | Size(sq.m.) | Price   |
 | ------ | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------- | ----------- | ------- |
 |        |                                      |                                                              |                                       |             |         |
-| 1      | Semmelweisstraße 41-47, 12524 Berlin | [WebPage](https://www.project-immobilien.com/berlin/immobilien/semmelweisstrasse/galerie/) | Sat 10:30                             |             |         |
+| 1      | Semmelweisstraße 41-47, 12524 Berlin | [WebPage](https://www.project-immobilien.com/berlin/immobilien/semmelweisstrasse/galerie/) | Sat 10:30  (may have to be rescheduled)                           |             |         |
 |        | Apartment number N010                | 30.4.2019                                                    |                                       |             |         |
 |        | Apartment number 49                  | 31.7.2019                                                    |                                       |             |         |
 |        |                                      |                                                              |                                       |             |         |
